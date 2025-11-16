@@ -1,0 +1,18 @@
+Class 0: IoU = 0.6500, Dice = 0.7879, Precision = 0.7628, Recall = 0.8146
+Class 1: IoU = 0.2166, Dice = 0.3560, Precision = 0.2887, Recall = 0.4643
+Class 2: IoU = 0.4704, Dice = 0.6398, Precision = 0.8853, Recall = 0.5010
+Class 3: IoU = 0.2869, Dice = 0.4458, Precision = 0.3522, Recall = 0.6073
+Class 4: IoU = 0.4691, Dice = 0.6386, Precision = 0.6767, Recall = 0.6046
+
+Overall Performance:
+Pixel Accuracy        : 0.7147
+Mean IoU              : 0.4186
+Mean Dice             : 0.5736
+Mean Precision        : 0.5931
+Mean Recall           : 0.5983
+
+Frequency-Weighted Performance:
+FW IoU                : 0.5667
+FW Dice               : 0.7163
+FW Precision          : 0.7415
+FW Recall             : 0.7147
